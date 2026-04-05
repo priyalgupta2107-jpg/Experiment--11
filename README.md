@@ -1,8 +1,8 @@
 # Experiment-11
 ## Aim of Experiment: Create and Load Dataset in Python.
 ## Theory:
-1. Dataset- A dataset is a collection of data organized in a structured format such as rows and columns.
-2.In pandas, datasets are represented using a dataframe, which is a 2-dimensional tabular data structure (like an Excel sheet).
+1. Dataset- A dataset is a collection of data organized in a structured format such as rows and columns.  
+2.In pandas, datasets are represented using a dataframe, which is a 2-dimensional tabular data structure (like an Excel sheet).  
 ## Screenshot of the Dataset Used:
 <img width="372" height="379" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/8c246aca-d7c3-48e5-97aa-050516904006" />
 
