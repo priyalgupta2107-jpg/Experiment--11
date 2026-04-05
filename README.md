@@ -2,7 +2,11 @@
 ## Aim of Experiment: Create and Load Dataset in Python.
 ## Theory:
 1. Dataset- A dataset is a collection of data organized in a structured format such as rows and columns.In pandas, datasets are represented using a dataframe, which is a 2-dimensional tabular data structure (like an Excel sheet).
-2. Creating Dataset- Creating a dataset means manually defining data inside python and converting it into a dataframe.
+## Screenshot of the Dataset Used:
+<img width="372" height="379" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/8c246aca-d7c3-48e5-97aa-050516904006" />
+
+
+3. Creating Dataset- Creating a dataset means manually defining data inside python and converting it into a dataframe.
 - A dataset of student details was created using a Python dictionary and converted into a Pandas DataFrame.
 - Dataset Attributes:  
    Roll_No  
